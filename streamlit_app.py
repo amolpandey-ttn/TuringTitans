@@ -3,7 +3,7 @@ from streamlit_chat import message
 from langchain.agents import create_csv_agent
 from langchain.llms import OpenAI
 
-openai_api_key = "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"
+openai_api_key = "openaikey"
 
 st.set_page_config(page_title="Cloud Cost Analyzer", page_icon=":cloud:")
 
